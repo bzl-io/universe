@@ -1,0 +1,10 @@
+repositories:
+  - github.com/abseil/abseil-py:
+      branch: master
+      commit: c99edd8e3dffe3667a9f086db86aa259927ac429
+  - github.com/bazelbuild/bazel-gazelle:
+      branch: master
+      commit: 102e58838262634e76df4becc8a6ce6cc0ce91cd
+  - github.com/bazelbuild/rules_docker:
+      branch: master
+      commit: 79095bfd85d2a5e663248cb2063ace74f8bd821e
