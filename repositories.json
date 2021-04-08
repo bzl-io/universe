@@ -2,8 +2,8 @@
   "repositories": [
     {
       "repositoryName": "github.com/abseil/abseil-py",
-      "branch": "master",
-      "commit": "c99edd8e3dffe3667a9f086db86aa259927ac429"
+      "branchName": "master",
+      "commitId": "c99edd8e3dffe3667a9f086db86aa259927ac429"
     }
   ]
 }
